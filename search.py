@@ -4,11 +4,7 @@
 ## search.py: currently supports Shodan, Censys, ZoomEye, and BinaryEdge
 ##################################################################################
 ## Usage: python search.py -h
-## Usage: python search.py -qs "title:'{1}'"
-##                          -qz "app:'{2}'" 
-##                          -qc "443.https.get.title: '{3}'"
-##                          -qb "web.title:'{4}'"
-## Usage: python search.py -qz "app:'{5}'" -ip
+## Usage: python search.py -qs "http.title:'Tesla PowerPack System'" -ip
 ##################################################################################
 ## Author: Siddhant Verma
 ##################################################################################
