@@ -26,7 +26,7 @@ just return socket information (IP:PORT): -
 ```
 $ python search.py -qz "app:'{5}'" -ip
 ```
-![picture](1.PNG)
+![picture](1.png)
 
 # installation:
 `pip install -r requirements.txt`
