@@ -18,7 +18,7 @@ optional arguments:
 
 # examples:
 ```
-$ python search.py -qs "title:'{1}'" -qz "app:'{2}'" -qc "443.https.get.title: '{3}'" -qb "web.title:'{4}'"
+$ python search.py -qs "title:'cisco'"
 ```
 
 
