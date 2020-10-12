@@ -18,13 +18,13 @@ optional arguments:
 
 # examples:
 ```
-$ python search.py -qs "http.title:'Tesla PowerPack System'" -ip
+$ python search.py -qs "http.title:'Tesla PowerPack System'"
 ```
 
 
 just return socket information (IP:PORT): -
 ```
-$ python search.py -qz "app:'{5}'" -ip
+$ python search.py -qs "http.title:'Tesla PowerPack System'" -ip
 ```
 ![picture](1.png)
 
