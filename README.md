@@ -18,7 +18,7 @@ optional arguments:
 
 # examples:
 ```
-$ python search.py -qs "title:'cisco'"
+$ python search.py -qs "http.title:'Tesla PowerPack System'" -ip
 ```
 
 
